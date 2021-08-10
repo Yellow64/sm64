@@ -40,6 +40,10 @@ Use this patch if your game requires over 4 MB of memory and requires the
 Expansion Pak. If the Expansion Pak is not present, an error message will be
 shown on startup.
 
+## UPGRADED Memory Expansion Pak Error Screen - `mem_error_screen_upgraded.patch`
+
+Use this patch if your game requires over 4 MB of memory and you want a sick lookin' error screen for it.
+
 ## Demo Input Recorder - `record_demo.patch`
 
 This patch allows you to record gameplay demos for the attract screen. It requires the latest nightly versions of Project64, and uses the Project64 JavaScript API to dump the demo input data from RAM and write it to a file.
