@@ -1,5 +1,6 @@
 # Super Mario 64
 
+- This fork's changes take place in the `enhancements` folder. 
 - This repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
 - Naming and documentation of the source code and data structures are in progress.
 
