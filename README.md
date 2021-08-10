@@ -1,8 +1,7 @@
-# Super Mario 64
+# Super Mario 64 - More Patches/Enhancements
 
 - This fork's changes take place in the `enhancements` folder. 
-- This repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
-- Naming and documentation of the source code and data structures are in progress.
+- The original repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
 
 It builds the following ROMs:
 
@@ -11,7 +10,7 @@ It builds the following ROMs:
 * sm64.eu.z64 `sha1: 4ac5721683d0e0b6bbb561b58a71740845dceea9`
 * sm64.sh.z64 `sha1: 3f319ae697533a255a1003d09202379d78d5a2e0`
 
-This repo does not include all assets necessary for compiling the ROMs.
+The repo does not include all assets necessary for compiling the ROMs.
 A prior copy of the game is required to extract the assets.
 
 ## Quick Start (for Ubuntu)
